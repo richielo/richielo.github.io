@@ -19,13 +19,3 @@ Liu, Zhiyu, Wenhao Jiang, Kit Hang Lee, <b>Yat Long Lo</b>, Yui Lun Ng, Qi Dou, 
 
 <b>[Finding by counting: a probabilistic packet count model for indoor localization in ble environments](https://richielo.github.io/publication/BT_WNTECH_WS_17)</b><br>
 De, Subham, Shreyans Chowdhary, Aniket Shirke, <b>Yat Long Lo</b>, Robin Kravets, and Hari Sundaram. <i>In Proceedings of the 11th Workshop on Wireless Network Testbeds, Experimental evaluation & Characterization, pp. 67-74. ACM </i>, 2017.
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
