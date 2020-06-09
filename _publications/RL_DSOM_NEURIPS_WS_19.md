@@ -4,11 +4,11 @@ collection: publications
 permalink: /publication/RL_DSOM_NEURIPS_WS_19
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2019-10-29
-venue: 'NeurIPS-19 Biological and Artificial Reinforcement Learning Workshop'
-paperurl: 'http://richielo.github.io/files/RL_DSOM_NEURIPS_WS_19.pdf'
+venue: '<i>NeurIPS-19 Biological and Artificial Reinforcement Learning Workshop</i>, 2019'
+paperurl: 'https://richielo.github.io/files/RL_DSOM_NEURIPS_WS_19.pdf'
 citation: '<b>Lo, Yat Long</b> and Sina Ghiassian. <i>NeurIPS Workshop on Biological and Artificial Reinforcement Learning </i>. 2019.'
 ---
-[[PDF]](http://richielo.github.io/files/RL_DSOM_NEURIPS_WS_19.pdf)
+[[PDF]](https://richielo.github.io/files/RL_DSOM_NEURIPS_WS_19.pdf)
 
 ## Abstract
 Using neural networks in the reinforcement learning (RL) framework has achieved notable successes. Yet, neural networks tend to forget what they learned in the past, especially when they learn online and fully incrementally, a setting in which the weights are updated after each sample is received and the sample is then discarded. Under this setting, an update can lead to overly global generalization by changing too many weights. The global generalization interferes with what was previously
