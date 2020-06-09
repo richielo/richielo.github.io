@@ -6,7 +6,7 @@ permalink: /publication/RL_BG_NN_AAMAS_20
 date: 2020-03-16
 venue: '<i>The 19th International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS 2020) </i>, 2020'
 paperurl: 'https://richielo.github.io/files/RL_BG_NN_AAMAS_20.pdf'
-citation: 'Ghiassian, Sina, Banafsheh Rafiee, <b>Yat Long Lo</b>, Adam White. <i>In Proceedings of the 19th International Conference on Autonomous Agents and Multi-Agent Systems</i>. <b>AAMAS 2020</b>'
+citation: 'Ghiassian, Sina, Banafsheh Rafiee, <b>Yat Long Lo</b>, Adam White. <i>In Proceedings of the 19th International Conference on Autonomous Agents and Multi-Agent Systems</i>. <b>AAMAS 2020</b>.'
 ---
 [[PDF]](https://richielo.github.io/files/RL_BG_NN_AAMAS_20.pdf)
 
