@@ -29,5 +29,5 @@ redirect_from:
 
 <br>
 <p align="center" style="font-family:cursive">
-<i> We don't fight because there is hope. We fight so we can have hope - Freedom Fighters (2019)</i>
+<i> "We don't fight because there is hope. We fight so we can have hope" - Freedom Fighters</i>
 </p>
