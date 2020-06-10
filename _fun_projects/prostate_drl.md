@@ -9,5 +9,5 @@ collection: fun_projects
 </p>
 
 <p>
-  The goal of the agent is to control the bounding box (blue box) to cover as much of the lesion as possible. The ground truths were labelled by radiologists (green box). See the [[Github](https://github.com/richielo/Medical_Localization_RL)] link for details.
+  The goal of the agent is to control the bounding box (blue box) to cover as much of the lesion as possible. The ground truths were labelled by radiologists (green box). See the <a href = "https://github.com/richielo/Medical_Localization_RL">Github Repo</a> for details.
 </p>
