@@ -8,6 +8,6 @@ collection: fun_projects
   <img src='/images/Prostate_drl_2.gif'>
 </p>
 
-<p align="center">
-  The goal of the agent is to control the bounding box (blue box) to cover as much of the lesion as possible. The ground truths were labelled by radiologists (green box). See the the [Github](https://github.com/richielo/Medical_Localization_RL) link for details.
+<p>
+  The goal of the agent is to control the bounding box (blue box) to cover as much of the lesion as possible. The ground truths were labelled by radiologists (green box). See the [[Github](https://github.com/richielo/Medical_Localization_RL)] link for details.
 </p>
