@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://richielo.github.io/images/hk_bf.gif?raw=true" alt="Photo" style="width: 450px;"/>
+  <img src="https://richielo.github.io/images/hk_bf.gif?raw=true" alt="Photo" style="width: 600px;"/>
 </p>
 
 # About Me
