@@ -16,10 +16,10 @@ main:
   #  url: /year-archive/
 
   - title: "CV"
-    url: /cv/
+    url: /files/Lo Yat Long Richie_CV_110520.pdf
 
   #- title: "Guide"
   #  url: /markdown/
 
-  - title: "Fun (unpublished) Projects"
+  - title: "Fun Projects (unpublished)"
     url: /fun_projects/
