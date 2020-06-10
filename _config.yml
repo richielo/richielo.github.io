@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yat Long (Richie), Lo"
   avatar           : "richie.jpg"
-  bio              : "MSc Student, Department of Computer Science, University of Oxford. <br> <b>An AI researcher-wannabe, trying to reinforcingly learn how to build general reinforcement learning agents</b>"
+  bio              : "MSc Student, Department of Computer Science, University of Oxford. <br> <br> An AI researcher-wannabe, trying to reinforcingly learn how to build general reinforcement learning agents"
   location         : "Hong Kong"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
