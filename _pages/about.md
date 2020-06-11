@@ -13,7 +13,7 @@ redirect_from:
 </p>
 
 # About Me
-* I am an incoming MSc Student in the Computer Science Department at the University of Oxford. [[Curriculum Vitae](http://richielo.github.io/files/Lo Yat Long Richie_CV_110620.pdf.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=qBM2A3kAAAAJ&hl=en)]
+* I am an incoming MSc Student in the Computer Science Department at the University of Oxford. [[Curriculum Vitae](http://richielo.github.io/files/Lo Yat Long Richie_CV_110620.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=qBM2A3kAAAAJ&hl=en)]
 * My research interests lie in the general area of machine learning, with specific focuses in reinforcement learning and deep learning, as well as their applications sequential decision making problems. Recently, I have been looking more into model-based reinforcement learning and representation learning.
 * In 2018, I joined the [Reinforcement Learning and Artificial Intelligence (RLAI) Laboratory](http://rlai.ualberta.ca/) at the University of Alberta as a research visitor for a year, supervised by [Professor Richard Sutton](http://incompleteideas.net/). It was a life-changing experience, especially in terms of my research philosophy.
 * I received my dual Bachelor's degrees in information systems (BBA) and computer science (BEng) from the University of Hong Kong. My undergraduate research supervisors are [Professor Michael Chau](https://pweb.fbe.hku.hk/~mchau/), [Professor Jia Pan](https://sites.google.com/site/panjia/), [Professor Ka Wai Kwok](https://web.hku.hk/~kwokkw/) and [Professor Albert Lam](https://www.eee.hku.hk/~ayslam/).
