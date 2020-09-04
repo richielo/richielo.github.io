@@ -4,5 +4,5 @@ excerpt: "This is a personal side project to explore the use of Deep RL in stock
 collection: fun_projects
 ---
 <p>
-  This is still an incomplete and ongoing project. After reproducing the paper's results, I am interested in exploring hierarchical ideas. See the <a href = "https://https://github.com/richielo/RL_Trade">Github Repo</a> for details.
+  This is still an incomplete and ongoing project. After reproducing the paper's results, I am interested in exploring hierarchical ideas. See the <a href = "https://github.com/richielo/RL_Trade">Github Repo</a> for details.
 </p>
