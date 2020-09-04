@@ -7,11 +7,11 @@ author_profile: true
 ---
 <br>
 <b>Knowing When To Look Back: Bidirectional Rollouts in Dyna-style Planning</b><br>
-<b>Lo, Yat Long</b>, Jia Pan, Albert Y.S. Lam,. <i>ICAPS
+<b>Lo, Yat Long</b>, Jia Pan and Albert Y.S. Lam,. <i>ICAPS
 Workshop on Bridging the Gap Between AI Planning and Reinforcement Learning</i>. 2020.
 
 <b>[Improving Performance in Reinforcement Learning by Breaking Generalization in Neural Networks](https://richielo.github.io/publications/RL_BG_NN_AAMAS_20)</b><br>
-Ghiassian, Sina, Banafsheh Rafiee, <b>Yat Long Lo</b>, Adam White. <i>In Proceedings of the 19th International Conference on Autonomous Agents and Multi-Agent Systems</i>. AAMAS 2020.
+Ghiassian, Sina, Banafsheh Rafiee, <b>Yat Long Lo</b> and Adam White. <i>In Proceedings of the 19th International Conference on Autonomous Agents and Multi-Agent Systems</i>. AAMAS 2020.
 
 <b>[The Necessary Roadblock to Artificial General Intelligence: Corrigibility](https://richielo.github.io/publication/Corrigibility_AGI_SIGAI_19)</b><br>
 <b>Lo, Yat Long</b>, Chung Yu Woo, and Ka Lok Ng. The Necessary Roadblock to Artificial General Intelligence: Corrigibility. <i>AI Matters</i>. 2019. <b> <span style="color:red">(Winner of 2018 ACM SIGAI Student Essay Contest on Artificial Intelligence Technologies)</span> </b>
