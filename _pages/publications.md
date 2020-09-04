@@ -6,8 +6,12 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
+<b>Knowing When To Look Back: Bidirectional Rollouts in Dyna-style Planning</b><br>
+<b>Lo, Yat Long</b>, Jia Pan, Albert Y.S. Lam,. <i>ICAPS
+Workshop on Bridging the Gap Between AI Planning and Reinforcement Learning</i>. 2020.
+
 <b>[Improving Performance in Reinforcement Learning by Breaking Generalization in Neural Networks](https://richielo.github.io/publications/RL_BG_NN_AAMAS_20)</b><br>
-Ghiassian, Sina, Banafsheh Rafiee, <b>Yat Long Lo</b>, Adam White. <i>In Proceedings of the 19th International Conference on Autonomous Agents and Multi-Agent Systems</i>. <b>AAMAS 2020</b>.
+Ghiassian, Sina, Banafsheh Rafiee, <b>Yat Long Lo</b>, Adam White. <i>In Proceedings of the 19th International Conference on Autonomous Agents and Multi-Agent Systems</i>. AAMAS 2020.
 
 <b>[The Necessary Roadblock to Artificial General Intelligence: Corrigibility](https://richielo.github.io/publication/Corrigibility_AGI_SIGAI_19)</b><br>
 <b>Lo, Yat Long</b>, Chung Yu Woo, and Ka Lok Ng. The Necessary Roadblock to Artificial General Intelligence: Corrigibility. <i>AI Matters</i>. 2019. <b> <span style="color:red">(Winner of 2018 ACM SIGAI Student Essay Contest on Artificial Intelligence Technologies)</span> </b>
@@ -19,4 +23,4 @@ Ghiassian, Sina, Banafsheh Rafiee, <b>Yat Long Lo</b>, Adam White. <i>In Proceed
 Liu, Zhiyu, Wenhao Jiang, Kit Hang Lee, <b>Yat Long Lo</b>, Yui Lun Ng, Qi Dou, Varut Vardhanabhuti and Ka Wai Kwok. <i>MICCAI Workshop on Artificial Intelligence in Radiation Therapy</i>. 2019
 
 <b>[Finding by counting: a probabilistic packet count model for indoor localization in ble environments](https://richielo.github.io/publication/BT_WNTECH_WS_17)</b><br>
-De, Subham, Shreyans Chowdhary, Aniket Shirke, <b>Yat Long Lo</b>, Robin Kravets, and Hari Sundaram. <i>In Proceedings of the 11th Workshop on Wireless Network Testbeds, Experimental evaluation & Characterization, pp. 67-74. ACM </i>, 2017.
+De, Subham, Shreyans Chowdhary, Aniket Shirke, <b>Yat Long Lo</b>, Robin Kravets, and Hari Sundaram. <i>In Proceedings of the 11th Workshop on Wireless Network Testbeds, Experimental evaluation & Characterization, pp. 67-74. ACM </i>. 2017.
