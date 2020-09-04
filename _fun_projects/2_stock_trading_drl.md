@@ -1,5 +1,5 @@
 ---
-title: "Stock trading using deep reinforcement learning"
+title: "Stock trading using Deep Reinforcement Learning"
 excerpt: "This is a personal side project to explore the use of Deep RL in stock trading. As a start, I am currently trying to reproduce the results of the paper - <a href=\"https://ieeexplore.ieee.org/document/8786132\">Deep Robust Reinforcement Learning for Practical Algorithmic Trading<a/><br/> <br/>"
 collection: fun_projects
 ---
