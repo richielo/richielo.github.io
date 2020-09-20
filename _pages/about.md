@@ -19,6 +19,7 @@ redirect_from:
 * I received my dual Bachelor's degrees in information systems (BBA) and computer science (BEng) from the University of Hong Kong. My undergraduate research supervisors are [Professor Michael Chau](https://pweb.fbe.hku.hk/~mchau/), [Professor Jia Pan](https://sites.google.com/site/panjia/), [Professor Ka Wai Kwok](https://web.hku.hk/~kwokkw/) and [Professor Albert Lam](https://www.eee.hku.hk/~ayslam/).
 
 # Recent News
+* August 28, 2020. One paper accepted to ICAPS-20 Workshop on Bridging the Gap Between AI Planning and Reinforcement Learning. A nice little conclusion to my undergraduate studies. 
 * I will be joining the University of Oxford as a MSc student in the fall of 2020.
 * January 15, 2020. One paper accepted to AAMAS 2020.
 * October 2, 2019. One paper accepted to NeurIPS-19 Workshop on Biological and Artificial Reinforcement Learning Workshop.
