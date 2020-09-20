@@ -14,12 +14,12 @@ redirect_from:
 
 # About Me
 * I am an incoming MSc Student in the Computer Science Department at the University of Oxford. [[Curriculum Vitae](http://richielo.github.io/files/Lo Yat Long Richie_CV_030920.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=qBM2A3kAAAAJ&hl=en)]
-* My research interests lie in the general area of machine learning, with specific focuses in reinforcement learning and deep learning, as well as their applications in sequential decision making problems. Recently, I have been looking more into model-based reinforcement learning and representation learning.
+* My research interests lie in the general area of machine learning, with specific focuses on reinforcement learning and deep learning, as well as their applications in sequential decision-making problems. Recently, I have been looking more into model-based reinforcement learning and representation learning.
 * In 2018, I joined the [Reinforcement Learning and Artificial Intelligence (RLAI) Laboratory](http://rlai.ualberta.ca/) at the University of Alberta as a research visitor for a year, supervised by [Professor Richard Sutton](http://incompleteideas.net/). It was a life-changing experience, especially in terms of my research philosophy.
 * I received my dual Bachelor's degrees in information systems (BBA) and computer science (BEng) from the University of Hong Kong. My undergraduate research supervisors are [Professor Michael Chau](https://pweb.fbe.hku.hk/~mchau/), [Professor Jia Pan](https://sites.google.com/site/panjia/), [Professor Ka Wai Kwok](https://web.hku.hk/~kwokkw/) and [Professor Albert Lam](https://www.eee.hku.hk/~ayslam/).
 
 # Recent News
-* August 28, 2020. One paper accepted to ICAPS-20 Workshop on Bridging the Gap Between AI Planning and Reinforcement Learning. A nice little conclusion to my undergraduate studies. 
+* August 28, 2020. One paper accepted to ICAPS-20 Workshop on Bridging the Gap Between AI Planning and Reinforcement Learning. A nice little conclusion to my undergraduate studies.
 * I will be joining the University of Oxford as a MSc student in the fall of 2020.
 * January 15, 2020. One paper accepted to AAMAS 2020.
 * October 2, 2019. One paper accepted to NeurIPS-19 Workshop on Biological and Artificial Reinforcement Learning Workshop.
