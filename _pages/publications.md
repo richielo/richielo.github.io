@@ -6,7 +6,7 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
-<b>Knowing When To Look Back: Bidirectional Rollouts in Dyna-style Planning</b><br>
+<b>[Knowing When To Look Back: Bidirectional Rollouts in Dyna-style Planning](https://richielo.github.io/publications/RL_BDRL_ICAPS_WS_20)</b><br>
 <b>Lo, Yat Long</b>, Jia Pan and Albert Y.S. Lam. <i>ICAPS
 Workshop on Bridging the Gap Between AI Planning and Reinforcement Learning</i>. 2020.
 
