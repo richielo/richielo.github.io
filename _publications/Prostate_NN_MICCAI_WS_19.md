@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Prostate_NN_MICCAI_WS_19
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2019-10-17
-venue: '<i>MICCAI-19 Workshop on Artificial Intelligence in Radiation Therapy</i>, 2019'
+venue: '<i>MICCAI-19 Workshop on Artificial Intelligence in Radiation Therapy</i>'
 paperurl: 'https://richielo.github.io/files/Prostate_NN_MICCAI_WS_19.pdf'
 citation: 'Liu, Zhiyu, Wenhao Jiang, Kit Hang Lee, <b>Yat Long Lo</b>, Yui Lun Ng, Qi Dou, Varut Vardhanabhuti and Ka Wai Kwok. <i>MICCAI Workshop on Artificial Intelligence in Radiation Therapy</i>. 2019'
 ---

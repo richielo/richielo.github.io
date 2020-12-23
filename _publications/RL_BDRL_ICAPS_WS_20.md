@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/RL_BDRL_ICAPS_WS_20
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-10-22
-venue: '<i>ICAPS-20 Workshop on Bridging the Gap Between AI Planning and Reinforcement Learning </i>, 2020'
+venue: '<i>ICAPS-20 Workshop on Bridging the Gap Between AI Planning and Reinforcement Learning </i>'
 paperurl: 'https://richielo.github.io/files/RL_BDRL_ICAPS_WS_20.pdf'
 citation: '<b>Lo, Yat Long</b>, Jia Pan and Albert Y.S. Lam. <i>ICAPS
 Workshop on Bridging the Gap Between AI Planning and Reinforcement Learning</i>. 2020.'

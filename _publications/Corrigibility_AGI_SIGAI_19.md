@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Corrigibility_AGI_SIGAI_19
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2019-12-06
-venue: '<i>AI Matters</i>, Special Interest Group on Artificial Intelligence, Association for Computing Machinery, 2019 (SIGAI, ACM)'
+venue: '<i>AI Matters</i>, Special Interest Group on Artificial Intelligence, Association for Computing Machinery'
 paperurl: 'https://richielo.github.io/files/Corrigibility_AGI_SIGAI_19.pdf'
 citation: '<b>Lo, Yat Long</b>, Chung Yu Woo, and Ka Lok Ng. The Necessary Roadblock to Artificial General Intelligence: Corrigibility. <i>AI Matters</i>. 2019. <b> <span style="color:red">(Winner of 2018 ACM SIGAI Student Essay Contest on Artificial Intelligence Technologies)</span> </b>'
 ---

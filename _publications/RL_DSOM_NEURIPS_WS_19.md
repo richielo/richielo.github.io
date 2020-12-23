@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/RL_DSOM_NEURIPS_WS_19
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2019-10-29
-venue: '<i>NeurIPS-19 Biological and Artificial Reinforcement Learning Workshop</i>, 2019'
+venue: '<i>NeurIPS-19 Biological and Artificial Reinforcement Learning Workshop</i>'
 paperurl: 'https://richielo.github.io/files/RL_DSOM_NEURIPS_WS_19.pdf'
 citation: '<b>Lo, Yat Long</b> and Sina Ghiassian. <i>NeurIPS Workshop on Biological and Artificial Reinforcement Learning </i>. 2019.'
 ---
