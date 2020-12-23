@@ -6,11 +6,11 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
-<b>[Knowing When To Look Back: Bidirectional Rollouts in Dyna-style Planning](https://richielo.github.io/publications/RL_BDRL_ICAPS_WS_20)</b><br>
+<b>[Knowing When To Look Back: Bidirectional Rollouts in Dyna-style Planning](https://richielo.github.io/publication/RL_BDRL_ICAPS_WS_20)</b><br>
 <b>Lo, Yat Long</b>, Jia Pan and Albert Y.S. Lam. <i>ICAPS
 Workshop on Bridging the Gap Between AI Planning and Reinforcement Learning</i>. 2020.
 
-<b>[Improving Performance in Reinforcement Learning by Breaking Generalization in Neural Networks](https://richielo.github.io/publications/RL_BG_NN_AAMAS_20)</b><br>
+<b>[Improving Performance in Reinforcement Learning by Breaking Generalization in Neural Networks](https://richielo.github.io/publication/RL_BG_NN_AAMAS_20)</b><br>
 Ghiassian, Sina, Banafsheh Rafiee, <b>Yat Long Lo</b> and Adam White. <i>In Proceedings of the 19th International Conference on Autonomous Agents and Multi-Agent Systems</i>. AAMAS 2020.
 
 <b>[The Necessary Roadblock to Artificial General Intelligence: Corrigibility](https://richielo.github.io/publication/Corrigibility_AGI_SIGAI_19)</b><br>
