@@ -3,12 +3,13 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-target: https://richielo.github.io/files/Lo%20Yat%20Long%20Richie_CV_240921.pdf
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<embed src="/files/Lo Yat Long Richie_CV_240921.pdf" type="application/pdf">
+
+<!-- {% include base_path %}
 
 Education
 ======
@@ -57,4 +58,4 @@ Teaching
 
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
