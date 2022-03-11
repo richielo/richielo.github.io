@@ -13,14 +13,14 @@ redirect_from:
 </p>
 
 # About Me
-* I am an aspiring AI researcher with an entrepreneurial spirit. Please feel free to reach out for opportunities, collaboration or just a chat! (My Oxford email will be deactivated soon so please use my Gmail account)[[Curriculum Vitae](http://richielo.github.io/files/Lo Yat Long Richie_CV_211021.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=qBM2A3kAAAAJ&hl=en)]
+* I am an aspiring AI researcher with an entrepreneurial spirit. Please feel free to reach out for opportunities, collaboration or just a chat! (My Oxford email will be deactivated soon so please use my Gmail account)[[Curriculum Vitae](http://richielo.github.io/files/Lo Yat Long Richie_CV_070322.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=qBM2A3kAAAAJ&hl=en)]
 * I was a MSc Student in the Computer Science Department at the University of Oxford, supervised by Professor [Shimon Whiteson](https://whirl.cs.ox.ac.uk/) and Professor [Jakob Foerster](https://www.jakobfoerster.com/).
 * My research interests lie in the general area of machine learning, with specific focuses on reinforcement learning and deep learning, as well as their applications in sequential decision-making problems. Recently, I have been looking more into model-based reinforcement learning and multi-agent reinforcement learning.
 * In 2018, I joined the [Reinforcement Learning and Artificial Intelligence (RLAI) Laboratory](http://rlai.ualberta.ca/) at the University of Alberta as a research visitor for a year, supervised by [Professor Richard Sutton](http://incompleteideas.net/). It was a life-changing experience, especially in terms of my research philosophy.
 * I received my dual Bachelor's degrees in information systems (BBA) and computer science (BEng) from the University of Hong Kong. My undergraduate research supervisors are [Professor Michael Chau](https://pweb.fbe.hku.hk/~mchau/), [Professor Jia Pan](https://sites.google.com/site/panjia/), [Professor Ka Wai Kwok](https://web.hku.hk/~kwokkw/) and [Professor Albert Lam](https://www.eee.hku.hk/~ayslam/).
 
 # Recent News
-* October 21, 2021. I was awarded <b> the Hoare Prize for the best thesis </b> from the Department of Computer Science, University of Oxford 
+* October 21, 2021. I was awarded <b> the Hoare Prize for the best thesis </b> from the Department of Computer Science, University of Oxford
 * I graduated from the University of Oxford with a MSc (Computer Science) degree, receiving a <b>(distinction)</b> for both coursework and thesis. My thesis topic is <i> Cheap Talk Discovery and Utilization in Multi-Agent Reinforcement Learning </i>, supervised by Christian Schroeder De Witt, Samuel Sokota, Jakob Foerster and Shimon Whiteson
 * I will be joining Zebra Technologies in London as a machine learning scientist intern in the fall of 2021
 * August 28, 2020. One paper accepted to ICAPS-20 Workshop on Bridging the Gap Between AI Planning and Reinforcement Learning. A nice little conclusion to my undergraduate studies.
