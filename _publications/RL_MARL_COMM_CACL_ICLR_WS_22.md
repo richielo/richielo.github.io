@@ -6,7 +6,7 @@ permalink: /publication/RL_MARL_COMM_CACL_ICLR_WS_22
 date: 2022-03-25
 venue: '<i>ICLR-22 Emergent Communication Workshop</i>'
 paperurl: 'https://richielo.github.io/files/MARL_COMM_CACL_ICLR_WS_22.pdf'
-citation: '<b>Lo, Yat Long</b> and Biswa Sengupta. <i>ICLR Workshop on Emergent Communication </i>. 2022.'
+citation: '<b>Lo, Yat Long</b> and Biswa Sengupta. <i>ICLR Workshop on Emergent Communication </i>. 2022. <b> <span style="color:red">(Runner-up Best Paper)</span> </b>'
 ---
 [[PDF]](https://richielo.github.io/files/MARL_COMM_CACL_ICLR_WS_22.pdf)
 
