@@ -8,7 +8,7 @@ author_profile: true
 <br>
 
 <b>[Learning to Ground Decentralized Multi-Agent Communication with Contrastive Learning](https://richielo.github.io/publication/RL_MARL_COMM_CACL_ICLR_WS_22)</b><br>
-<b>Lo, Yat Long</b>, Jia Pan and Biswa Sengupta. <i>ICLR Workshop on Emergent Communication</i>. 2022.
+<b>Lo, Yat Long</b>, Jia Pan and Biswa Sengupta. <i>ICLR Workshop on Emergent Communication</i>. 2022. <b> <span style="color:red">(Runner-Up Best Paper)</span> </b>
 
 <b>[Knowing When To Look Back: Bidirectional Rollouts in Dyna-style Planning](https://richielo.github.io/publication/RL_BDRL_ICAPS_WS_20)</b><br>
 <b>Lo, Yat Long</b>, Jia Pan and Albert Y.S. Lam. <i>ICAPS
