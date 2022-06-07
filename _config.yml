@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yat Long (Richie), Lo"
   avatar           : "richie.jpg"
-  bio              : "MSc Student, Department of Computer Science, University of Oxford. <br> <br> An AI researcher-wannabe, trying to reinforcingly learn how to build general reinforcement learning agents"
-  location         : "Oxford, United Kingdom"
+  bio              : "ML Scientist (Ex-Oxford, Ex-RLAI, Ex-HKU). <br> <br> An AI researcher-wannabe, trying to reinforcingly learn how to build general reinforcement learning agents"
+  location         : "London, United Kingdom"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=qBM2A3kAAAAJ&hl=en"
@@ -103,14 +103,14 @@ author:
   instagram        :
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/yat-long-richie-lo-922991100/"
+  linkedin         : "yat-long-richie-lo-922991100"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : "chrysalis_ai"
   vine             :
   weibo            :
   xing             :
