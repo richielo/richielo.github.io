@@ -20,10 +20,10 @@ redirect_from:
 * I received my dual Bachelor's degrees in information systems (BBA) and computer science (BEng) from the University of Hong Kong. My undergraduate research supervisors are [Professor Michael Chau](https://pweb.fbe.hku.hk/~mchau/), [Professor Jia Pan](https://sites.google.com/site/panjia/), [Professor Ka Wai Kwok](https://web.hku.hk/~kwokkw/) and [Professor Albert Lam](https://www.eee.hku.hk/~ayslam/).
 
 # Recent News
+* July 4, 2022. I have joined Shell Research as an AI Researcher in Deep RL
 * March 25, 2022. One paper (<b> Runner-up Best Paper </b>) accepted to ICLR-22 Workshop on Emergent Communication
 * October 21, 2021. I was awarded <b> the Hoare Prize for the best thesis </b> from the Department of Computer Science, University of Oxford
 * I graduated from the University of Oxford with a MSc (Computer Science) degree, receiving a <b>(distinction)</b> for both coursework and thesis. My thesis topic is <i> Cheap Talk Discovery and Utilization in Multi-Agent Reinforcement Learning </i>, supervised by Christian Schroeder De Witt, Samuel Sokota, Jakob Foerster and Shimon Whiteson
-* I will be joining Zebra Technologies in London as a machine learning scientist intern in the fall of 2021
 * August 28, 2020. One paper accepted to ICAPS-20 Workshop on Bridging the Gap Between AI Planning and Reinforcement Learning. A nice little conclusion to my undergraduate studies.
 * I will be joining the University of Oxford as a MSc student in the fall of 2020.
 * January 15, 2020. One paper accepted to AAMAS 2020.
