@@ -20,7 +20,7 @@ redirect_from:
 * I received my dual Bachelor's degrees in information systems (BBA) and computer science (BEng) from the University of Hong Kong. My undergraduate research supervisors are [Professor Michael Chau](https://pweb.fbe.hku.hk/~mchau/), [Professor Jia Pan](https://sites.google.com/site/panjia/), [Professor Ka Wai Kwok](https://web.hku.hk/~kwokkw/) and [Professor Albert Lam](https://www.eee.hku.hk/~ayslam/).
 
 # Recent News
-* January 31, 2022. One paper accepted to ICLR 2023, my first first-author conference paper!
+* January 31, 2023. One paper accepted to ICLR 2023, my first first-author conference paper!
 * July 4, 2022. I have joined Shell Research as an AI Researcher in Deep RL
 * March 25, 2022. One paper (<b> Runner-up Best Paper </b>) accepted to ICLR-22 Workshop on Emergent Communication
 * October 21, 2021. I was awarded <b> the Hoare Prize for the best thesis </b> from the Department of Computer Science, University of Oxford
