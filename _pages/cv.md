@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<embed src="/files/Lo Yat Long Richie_CV_150922.pdf" type="application/pdf">
+<embed src="/files/Lo Yat Long Richie_CV_040223.pdf" type="application/pdf">
 
 <!-- {% include base_path %}
 
