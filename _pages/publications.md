@@ -7,6 +7,9 @@ author_profile: true
 ---
 <br>
 
+<b>[Cheap Talk Discovery and Utilization in Multi-Agent Reinforcement Learning](https://richielo.github.io/publication/RL_MARL_CTDU_ICLR_23)</b><br>
+<b>Lo, Yat Long</b>, Christian Schroeder de Witt, Samuel Sokota, Jakob Foerster, Shimon Whiteson.<i>In Proceedings of The 11th International Conference on Learning Representations </i>. ICLR 2023.
+
 <b>[Learning to Ground Decentralized Multi-Agent Communication with Contrastive Learning](https://richielo.github.io/publication/RL_MARL_COMM_CACL_ICLR_WS_22)</b><br>
 <b>Lo, Yat Long</b>, Jia Pan and Biswa Sengupta. <i>ICLR Workshop on Emergent Communication</i>. 2022. <b> <span style="color:red">(Runner-Up Best Paper)</span> </b>
 

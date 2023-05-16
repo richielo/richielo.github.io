@@ -6,7 +6,7 @@ permalink: /publication/RL_MARL_CTDU_ICLR_23
 date: 2023-01-31
 venue: '<i>The 11th International Conference on Learning Representations (ICLR)</i>'
 paperurl: 'https://richielo.github.io/files/RL_MARL_CTDU_ICLR_23.pdf'
-citation: '<b>Lo, Yat Long</b> and Sina Ghiassian. <i>In Proceedings of The 11th International Conference on Learning Representations </i>. ICLR 2023.'
+citation: '<b>Lo, Yat Long</b>, Christian Schroeder de Witt, Samuel Sokota, Jakob Foerster, Shimon Whiteson. <i>In Proceedings of The 11th International Conference on Learning Representations </i>. ICLR 2023.'
 ---
 [[PDF]](https://richielo.github.io/files/RL_MARL_CTDU_ICLR_23.pdf)
 
