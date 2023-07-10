@@ -13,7 +13,7 @@ redirect_from:
 </p>
 
 # About Me
-* I am an aspiring AI researcher with an entrepreneurial spirit. Please feel free to reach out for opportunities, collaboration or just a chat! (My Oxford email will be deactivated soon so please use my Gmail account)[[Curriculum Vitae](http://richielo.github.io/files/Lo Yat Long Richie_CV_040223.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=qBM2A3kAAAAJ&hl=en)]
+* I am an aspiring AI researcher with an entrepreneurial spirit. Please feel free to reach out for opportunities, collaboration or just a chat! (My Oxford email will be deactivated soon so please use my Gmail account)[[Curriculum Vitae](http://richielo.github.io/files/Lo Yat Long Richie_CV_040223.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=LdSbeqkAAAAJ&hl=en&oi=ao)]
 * I was a MSc Student in the Computer Science Department at the University of Oxford, supervised by Professor [Shimon Whiteson](https://whirl.cs.ox.ac.uk/) and Professor [Jakob Foerster](https://www.jakobfoerster.com/).
 * My research interests lie in the general area of machine learning, with specific focuses on reinforcement learning and deep learning, as well as their applications in sequential decision-making problems. Recently, I have been looking more into model-based reinforcement learning and multi-agent reinforcement learning.
 * In 2018, I joined the [Reinforcement Learning and Artificial Intelligence (RLAI) Laboratory](http://rlai.ualberta.ca/) at the University of Alberta as a research visitor for a year, supervised by [Professor Richard Sutton](http://incompleteideas.net/). It was a life-changing experience, especially in terms of my research philosophy.
