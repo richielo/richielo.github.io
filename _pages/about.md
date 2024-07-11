@@ -20,7 +20,7 @@ redirect_from:
 * I received my dual Bachelor's degrees in information systems (BBA) and computer science (BEng) from the University of Hong Kong. My undergraduate research supervisors are [Professor Michael Chau](https://pweb.fbe.hku.hk/~mchau/), [Professor Jia Pan](https://sites.google.com/site/panjia/), [Professor Ka Wai Kwok](https://web.hku.hk/~kwokkw/) and [Professor Albert Lam](https://www.eee.hku.hk/~ayslam/).
 
 # Recent News
-* July 11, 2024. New work:  [[Generative Image as Action Models](https://genima-robot.github.io/)]
+* July 11, 2024. New work:  [Generative Image as Action Models](https://genima-robot.github.io/)
 * January 15, 2024. One paper accepted to ICLR 2024.
 * February 6, 2023. I have joined the Robot Learning Lab at Dyson, focusing on developing sample-efficient RL methods for Robotics.
 * January 31, 2023. One paper accepted to ICLR 2023, my first first-author conference paper!
