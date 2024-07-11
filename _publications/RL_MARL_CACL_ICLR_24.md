@@ -3,7 +3,7 @@ title: "Learning Multi-Agent Communication with Contrastive Learning"
 collection: publications
 permalink: /publication/RL_MARL_CACL_ICLR_24
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2023-01-31
+date: 2024-01-31
 venue: '<i>The 11th International Conference on Learning Representations (ICLR)</i>'
 paperurl: 'https://richielo.github.io/files/RL_MARL_CACL_ICLR_24.pdf'
 citation: '<b>Lo, Yat Long</b>, Biswa Sengupta, Jakob Foerster, Michael Noukhovitch. <i>In Proceedings of The 11th International Conference on Learning Representations </i>. ICLR 2024.'

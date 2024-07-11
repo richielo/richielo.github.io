@@ -3,7 +3,7 @@ title: "Generative Image as Action Models"
 collection: publications
 permalink: /publication/IL_GENIMA_CORL_24
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2023-01-31
+date: 2024-07-09
 venue: '<i>In Review</i>'
 paperurl: 'https://richielo.github.io/files/IL_GENIMA_CORL_24.pdf'
 citation: 'Mohit Shridhar*, <b>Lo, Yat Long*</b>, Stephen James. In Review.'
