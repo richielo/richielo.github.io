@@ -10,7 +10,7 @@ author_profile: true
 <b>[Generative Image as Action Models](https://richielo.github.io/publication/IL_GENIMA_CORL_24)</b><br>
 Mohit Shridhar, <b>Lo, Yat Long*</b>, Stephen James. [Website](https://genima-robot.github.io/). In Review.
 
-<b>[Learning Multi-Agent Communication with Contrastive Learning](https://richielo.github.io/publication/RL_MARL_CTDU_ICLR_23)</b><br>
+<b>[Learning Multi-Agent Communication with Contrastive Learning](https://richielo.github.io/publication/RL_MARL_CACL_ICLR_24)</b><br>
 <b>Lo, Yat Long</b>, Biswa Sengupta, Jakob Foerster, Michael Noukhovitch. <i>In Proceedings of The 12th International Conference on Learning Representations </i>. ICLR 2024.
 
 <b>[Cheap Talk Discovery and Utilization in Multi-Agent Reinforcement Learning](https://richielo.github.io/publication/RL_MARL_CTDU_ICLR_23)</b><br>
