@@ -6,7 +6,7 @@ permalink: /publication/IL_GENIMA_CORL_24
 date: 2023-01-31
 venue: '<i>In Review</i>'
 paperurl: 'https://richielo.github.io/files/IL_GENIMA_CORL_24.pdf'
-citation: 'Mohit Shridhar, <b>Lo, Yat Long*</b>, Stephen James. In Review.'
+citation: 'Mohit Shridhar*, <b>Lo, Yat Long*</b>, Stephen James. In Review.'
 ---
 [[PDF]](https://richielo.github.io/files/IL_GENIMA_CORL_24.pdf)
 
