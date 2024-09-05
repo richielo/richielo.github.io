@@ -6,7 +6,7 @@ permalink: /publication/IL_GENIMA_CORL_24
 date: 2024-07-09
 venue: '<i>In Review</i>'
 paperurl: 'https://richielo.github.io/files/IL_GENIMA_CORL_24.pdf'
-citation: 'Mohit Shridhar*, <b>Lo, Yat Long*</b>, Stephen James. In Review.'
+citation: 'Mohit Shridhar*, <b>Lo, Yat Long*</b>, Stephen James. Conference on Robot Learning. 2024.'
 ---
 [[PDF]](https://richielo.github.io/files/IL_GENIMA_CORL_24.pdf)
 

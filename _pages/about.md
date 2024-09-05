@@ -13,14 +13,14 @@ redirect_from:
 </p>
 
 # About Me
-* I am an aspiring AI researcher with an entrepreneurial spirit. Please feel free to reach out for opportunities, collaboration or just a chat! (My Oxford email will be deactivated soon so please use my Gmail account)[[Curriculum Vitae](http://richielo.github.io/files/Lo Yat Long Richie_CV_090724.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=LdSbeqkAAAAJ&hl=en&oi=ao)]
+* I am an aspiring AI researcher with an entrepreneurial spirit. Please feel free to reach out for opportunities, collaboration or just a chat! (My Oxford email will be deactivated soon so please use my Gmail account)[[Curriculum Vitae](http://richielo.github.io/files/Lo Yat Long Richie_CV_140824_r.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=LdSbeqkAAAAJ&hl=en&oi=ao)]
 * I was a MSc Student in the Computer Science Department at the University of Oxford, supervised by Professor [Shimon Whiteson](https://whirl.cs.ox.ac.uk/) and Professor [Jakob Foerster](https://www.jakobfoerster.com/).
 * My research interests lie in the general area of machine learning, with specific focuses on reinforcement learning and deep learning, as well as their applications in sequential decision-making problems. Recently, I have been looking more into model-based reinforcement learning and multi-agent reinforcement learning.
 * In 2018, I joined the [Reinforcement Learning and Artificial Intelligence (RLAI) Laboratory](http://rlai.ualberta.ca/) at the University of Alberta as a research visitor for a year, supervised by [Professor Richard Sutton](http://incompleteideas.net/). It was a life-changing experience, especially in terms of my research philosophy.
 * I received my dual Bachelor's degrees in information systems (BBA) and computer science (BEng) from the University of Hong Kong. My undergraduate research supervisors are [Professor Michael Chau](https://pweb.fbe.hku.hk/~mchau/), [Professor Jia Pan](https://sites.google.com/site/panjia/), [Professor Ka Wai Kwok](https://web.hku.hk/~kwokkw/) and [Professor Albert Lam](https://www.eee.hku.hk/~ayslam/).
 
 # Recent News
-* July 11, 2024. New work:  [Generative Image as Action Models](https://genima-robot.github.io/)
+* September 4, 2024. New paper accepted to CORL 2024:  [Generative Image as Action Models](https://genima-robot.github.io/)
 * January 15, 2024. One paper accepted to ICLR 2024.
 * February 6, 2023. I have joined the Robot Learning Lab at Dyson, focusing on developing sample-efficient RL methods for Robotics.
 * January 31, 2023. One paper accepted to ICLR 2023, my first first-author conference paper!
