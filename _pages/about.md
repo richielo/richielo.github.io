@@ -19,8 +19,9 @@ redirect_from:
 * In 2018, I joined the [Reinforcement Learning and Artificial Intelligence (RLAI) Laboratory](http://rlai.ualberta.ca/) at the University of Alberta as a research visitor for a year, supervised by [Professor Richard Sutton](http://incompleteideas.net/). It was a life-changing experience, especially in terms of my research philosophy.
 * I received my dual Bachelor's degrees in information systems (BBA) and computer science (BEng) from the University of Hong Kong. My undergraduate research supervisors are [Professor Michael Chau](https://pweb.fbe.hku.hk/~mchau/), [Professor Jia Pan](https://sites.google.com/site/panjia/), [Professor Ka Wai Kwok](https://web.hku.hk/~kwokkw/) and [Professor Albert Lam](https://www.eee.hku.hk/~ayslam/).
 
-# Recent News
-* September 4, 2024. New paper accepted to CORL 2024:  [Generative Image as Action Models](https://genima-robot.github.io/), it is also featured in [MIT Technology Review](https://www.technologyreview.com/2024/10/03/1104958/ai-generated-images-can-teach-robots-how-to-act/)!
+# News
+* November 18, 2024. I have joined Amazon AGI as an applied scientist with a focus on foundation model post-training.
+* September 4, 2024. One paper accepted to CORL 2024:  [Generative Image as Action Models](https://genima-robot.github.io/), it is also featured in [MIT Technology Review](https://www.technologyreview.com/2024/10/03/1104958/ai-generated-images-can-teach-robots-how-to-act/)!
 * January 15, 2024. One paper accepted to ICLR 2024.
 * February 6, 2023. I have joined the Robot Learning Lab at Dyson, focusing on developing sample-efficient RL methods for Robotics.
 * January 31, 2023. One paper accepted to ICLR 2023, my first first-author conference paper!
